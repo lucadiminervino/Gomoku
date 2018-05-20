@@ -10,4 +10,8 @@ FRONT-END:
 4) Run "ng serve --open" for dev environment
 
 Open 2 or more separate client windows with a browser to simulate 2 or more players, the back-end will pair the players.
+
+![alt text](screenshots/romeo.png "Each player takes turns against his opponent. The goal of the game is to occupy 5 consecutive squares in any direction. Squares that are occupied by the player are red. Squares occupied by the opponent are blue")
+![alt text](screenshots/juliet.png "")
+
 For questions, contact me at luca.diminervino@gmail.com
